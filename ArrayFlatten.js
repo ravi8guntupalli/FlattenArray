@@ -1,5 +1,11 @@
 //This example demonstrates array flattening
 //This could be done easily using lodash.flatten and lodash.flattenDeep, how ever can be done also using plain java script
+
+/**
+ *
+ * @param arrayToBeFlattened
+ * @returns {Array}
+ */
 function flattenArray(arrayToBeFlattened) {
     var flattenedArray = [];
     for(var i = 0; i < arrayToBeFlattened.length; i++) {
