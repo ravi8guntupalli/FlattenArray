@@ -1,6 +1,7 @@
 //This example demonstrates array flattening
 //This could be done easily using lodash.flatten and lodash.flattenDeep, how ever can be done also using plain java script
 
+
 /**
  *
  * @param arrayToBeFlattened
